@@ -1,0 +1,2 @@
+rootProject.name = "CircularRevealLinearLayoutExample"
+include ':app'
